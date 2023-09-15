@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Oscar",
+        "email": "osqui.menacho@gmail.com",
+        "city": "Alemania"
+    },
+    {
+        "name": "Adrián",
+        "email": "adri.carvajal12@gmail.com",
+        "city": "Brasil"
+    },
+    {
+        "name": "Midory",
+        "email": "mido.vacaflores20@gmail.com",
+        "city": "Inglaterra"
+    },
+    {
+        "name": "Gabriel",
+        "email": "gabo.silva91@gmail.com",
+        "city": "Francia"
+    },
+    {
+        "name": "Sandra",
+        "email": "sandicoronado@gmail.com",
+        "city": "Dinamarca"
+    }
+]
