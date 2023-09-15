@@ -15,7 +15,7 @@ $(function() {
         else if (userAge === '') {
             showMessage('Error', 'Ingrese su edad por favor.', 'error');
         }
-        else if (userAge > 100) {
+        else if (userAge < 1 || userAge > 100) {
             showMessage('Error', 'La edad ingresada no es válida.', 'error');
         }
         else if (userCity === 'Seleccione su Ciudad') {
